@@ -51,7 +51,7 @@ def erro():
     return mensagem
 
 
-print("\nBoa noite! Você está aprendendo sobre Allan Turing.\n")
+print("\nBoa noite! Você está aprendendo sobre Niklaus Wirth.\n")
 
 
 continuar = True
