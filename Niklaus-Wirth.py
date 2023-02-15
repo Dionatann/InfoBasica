@@ -6,20 +6,20 @@ def resumo():
 
 
 def doutorado():
-    mensagem = "Niklaus Wirth realizou seu PhD na Universidadede Califórniano Berkeleyem 1963. Seu instrutor foi Harry Huskey! \n Não mais registro técnicos do seu doutorado disponível."
+    mensagem = "Niklaus Wirth realizou seu PhD na Universidade da Califórnia em Berkeleyem 1963. Seu instrutor foi Harry Huskey! \n Não mais registro técnicos do seu doutorado disponível."
     return mensagem
 
 
 def contribuicoes():
     mensagem = "Suas principais contribuições foram:\n" \
-               "O livro  The Pascal User Manual and Report , escrito em conjunto com Kathleen Jensen, serviu de base para " \
+               "O livro 'The Pascal User Manual and Report' , escrito em conjunto com Kathleen Jensen, serviu de base para " \
                "muitos esforços de implementação de linguagens nas décadas de 1970 e 1980 nos Estados Unidos e em toda a Europa.\n\
-                Seu artigo Program Development by Stepwise Refinement sobre o ensino da programação, é considerado um texto \
-                clássico em engenharia de software. Em 1975, ele escreveu o livro Algorithms + Data Structures = Programs, que ganhou " \
-               "amplo reconhecimento. As principais revisões deste livro com o novo título Algoritmos + Estruturas de Dados foram publicadas em " \
+                Seu artigo 'Program Development by Stepwise Refinement' sobre o ensino da programação, é considerado um texto \
+                clássico em engenharia de software. Em 1975, ele escreveu o livro 'Algorithms + Data Structures = Programs', que ganhou " \
+               "amplo reconhecimento. As principais revisões deste livro com o novo título 'Algoritmos + Estruturas de Dados' foram publicadas em " \
                "1985 e 2004. Os exemplos da primeira edição foram escritos em Pascal. Estes foram substituídos nas edições posteriores por " \
                " exemplos escritos em Modula-2 e Oberon, respectivamente." \
-               "Seu livro Programação Sistemática: Uma Introdução, foi considerado uma boa fonte para os estudantes que queriam " \
+               "Seu livro 'Programação Sistemática': Uma Introdução, foi considerado uma boa fonte para os estudantes que queriam " \
                "fazer mais do que apenas codificar. Como um texto desafiador para se trabalhar"\
                "Em 1992, ele publicou (juntamente com Jürg Gutknecht) a documentação completa do sistema operacional Oberon. Um " \
                "segundo livro (junto com Martin Reiser) foi planejado como um guia do programador."
