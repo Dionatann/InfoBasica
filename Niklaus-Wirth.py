@@ -6,7 +6,7 @@ def resumo():
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "Niklaus Wirth realizou seu PhD na Universidadede Califórniano Berkeleyem 1963. Seu instrutor foi Harry Huskey! \n Não mais registro técnicos do seu doutorado disponível."
     return mensagem
 
 
